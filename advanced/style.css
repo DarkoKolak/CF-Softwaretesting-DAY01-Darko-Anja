@@ -1,0 +1,20 @@
+span {
+  margin: 0 auto;
+  padding: 0 auto; }
+
+header {
+  width: 100%; }
+  header #first {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    border: solid;
+    width: 100%; }
+    header #first .left {
+      width: 50%; }
+      header #first .left span {
+        padding-left: 1%; }
+    header #first .right {
+      width: 30%;
+      background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
