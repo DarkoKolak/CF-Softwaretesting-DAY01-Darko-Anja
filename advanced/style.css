@@ -1,4 +1,4 @@
-span {
+p {
   margin: 0 auto;
   padding: 0 auto; }
 
@@ -11,10 +11,12 @@ header {
     width: 100%; }
     header #first .left {
       width: 50%; }
-      header #first .left span {
-        padding-left: 1%; }
+      header #first .left p {
+        padding-left: 1%;
+        float: left; }
     header #first .right {
       width: 30%;
-      background-color: red; }
+      background-color: red;
+      float: right; }
 
 /*# sourceMappingURL=style.css.map */
