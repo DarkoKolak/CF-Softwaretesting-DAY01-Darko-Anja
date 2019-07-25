@@ -3,7 +3,7 @@ shop = [{
 "CATEGORY": "Laptop",
 "NAME": "Vladimir-Black-edition",
 "PRIZE": "1500",
-"Image": "https://cnet2.cbsistatic.com/img/p9d65a6oc5LysgbBLjEznXylPU0=/868x488/2019/04/09/14f91779-c049-4cbe-a4ac-0b42583dc2ca/hp-pavilion-gaming-laptop.jpg"
+"Image": "https://i.pinimg.com/originals/5a/a2/df/5aa2df4da7c6ed626c4a49942b937f04.jpg"
 },
 {
 "CATEGORY": "Headphones",
@@ -20,6 +20,6 @@ shop = [{
 "CATEGORY": "Laptop",
 "NAME": "Vladimir-ultrablack-edition",
 "PRIZE": "2000",
-"Image": "https://cnet2.cbsistatic.com/img/p9d65a6oc5LysgbBLjEznXylPU0=/868x488/2019/04/09/14f91779-c049-4cbe-a4ac-0b42583dc2ca/hp-pavilion-gaming-laptop.jpg",
+"Image": "https://i.pinimg.com/originals/5a/a2/df/5aa2df4da7c6ed626c4a49942b937f04.jpg",
 
 }]
