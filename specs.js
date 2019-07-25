@@ -10,7 +10,7 @@ describe("Sum", function(){
 
 	it("should return the sum", function(){
 
-		expect(cal(3,5)).toEqual(8);
+		expect(cal(3,5)).toEqual(10);
 	});
 });
 
